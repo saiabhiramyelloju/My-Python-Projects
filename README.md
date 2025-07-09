@@ -83,6 +83,104 @@ Reverses a word and checks if it matches the original.
 
 ---
 
+This repository contains three Python programs:
+
+#Password Strength Checker
+
+#PrimeBuzz (incomplete)
+
+#Simple ATM Interface
+
+#Password Strength Checker
+File: Password Strength Checker.py
+
+Description
+This program evaluates the strength of a user-provided password based on:
+
+Presence of numbers
+
+Presence of special characters
+
+Length of the password
+
+Features
+Scores password strength on a point system
+
+Classifies passwords as "Strong", "Medium", or "Low" based on the score
+
+Checks for specific special characters (@, !, #, $, &, *)
+
+Note
+The current implementation has some logical issues in the scoring system that need to be fixed.
+
+#PrimeBuzz (Incomplete)
+File: PrimeBuzz not completed.py
+
+Description
+This is an incomplete program that was intended to:
+
+Identify prime numbers
+
+Print "Quad" for numbers divisible by 4
+
+Print the number itself for other cases
+
+Current Status
+The prime number checking logic is incorrect
+
+The program is not fully functional
+
+Needs additional work to complete the intended functionality
+
+#Simple ATM Interface
+File: Simple ATM Interface.py
+
+Description
+A basic ATM simulation with the following features:
+
+PIN verification (3 attempts allowed)
+
+Balance checking
+
+Withdrawal functionality
+
+Deposit functionality
+
+Features
+Secure PIN entry with limited attempts
+
+Real-time balance updates
+
+Simple menu-driven interface
+
+Basic error handling
+
+Usage
+Enter the correct PIN (1979)
+
+Select an option from the menu:
+
+1: Check balance
+
+2: Withdraw money
+
+3: Deposit money
+
+Requirements
+Python 3.x
+
+How to Run
+Execute each program separately using Python:
+
+bash
+python [filename].py
+Notes
+The Password Strength Checker needs logic improvements
+
+PrimeBuzz is incomplete and not functional
+
+The ATM interface uses a hardcoded PIN (1979) and starting balance ($100,000)
+
 ## 🛠️ Requirements
 Just Python 3. No libraries needed.
 
