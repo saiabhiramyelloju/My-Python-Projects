@@ -1,5 +1,12 @@
 # 🐍 My Python Projects Collection
 
+
+![Python](https://img.shields.io/badge/Python-3.10-blue?logo=python&logoColor=white)
+![Status](https://img.shields.io/badge/Status-Completed-brightgreen?style=flat-square)
+![License](https://img.shields.io/badge/License-MIT-orange)
+![PRs](https://img.shields.io/badge/PRs-Welcome-ff69b4)
+![Build](https://img.shields.io/badge/Made%20With-Love-red)
+
 Welcome to **My-Python-Projects** — a fun and beginner-friendly collection of mini Python programs! 🎉  
 Each file helps you explore core programming concepts like **loops**, **conditionals**, **functions**, **dictionaries**, **string ops**, and **user input**.
 
