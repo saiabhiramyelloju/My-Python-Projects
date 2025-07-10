@@ -120,6 +120,7 @@ Simulates an ATM system:
 ---
 
 ### ✅ 14. `PalindromeBuzz.py`
+![PalindromeBuzz](assets/palindromebuzz-demo.gif)
 Mixes palindrome and math logic:
 - `Palin` → if number is a palindrome  
 - `Buzz` → if divisible by 9  
@@ -129,6 +130,7 @@ Mixes palindrome and math logic:
 ---
 
 ### ✅ 15. `EmojiFizzBuzz.py`
+![EmojiFizzBuzz](assets/emojifizzbuzz-demo.gif)
 Prints emojis instead of text:
 - `3` → 🔥  
 - `5` → 💥  
